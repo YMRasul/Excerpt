@@ -61,7 +61,6 @@ def readspr(spr):
                 s = s + line[pole[i][3]-1:pole[i][4]] + ' '
             #print(s)
             txt.append(s+'\n')
-    #--------------------------------------------------
     return txt
 
 
